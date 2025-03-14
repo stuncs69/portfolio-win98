@@ -49,6 +49,9 @@ ZZZzz /,`.-'`'    -.  ;-;;,_
         <div class="win98-statusbar-section">Ready</div>
         <div class="win98-statusbar-section">CPU: 3%</div>
         <div class="win98-statusbar-section">RAM: 32MB / 64MB</div>
+        <div class="win98-statusbar-section">
+           <a class="win98-link" href="https://github.com/stuncs69/portfolio-win98" target="_blank">Source</a>
+        </div>
       </div>
     </div>
   </div>
