@@ -1,0 +1,13 @@
+/* add new font */
+@font-face {
+    font-family: 'MS Sans Serif';
+    src: url('../assets/ms-sans-serif-1.ttf');
+}
+
+* {
+    font-family: 'MS Sans Serif' !important;
+}
+
+html, body {
+    overflow: hidden;
+}
